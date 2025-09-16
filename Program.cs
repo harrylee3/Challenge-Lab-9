@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿// Write a method that checks if given number (positive integer)
+// contains digit 3. Do not convert number to other type. Do not
+// use built-in functions like Contains(), StartsWith(), etc.
 
 Console.WriteLine("Enter a number:");
 
